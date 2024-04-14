@@ -1,6 +1,7 @@
 ### 👋 Hi there, my name's João Pedro.
 
 <div style="display: inline_block"><br>
+  <h1>Technology</h1>
   <img align="center" alt="joao-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="joao-tp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
